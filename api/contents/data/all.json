@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-02-28T12:04:36.111406Z",
+      "created": "2022-02-28T12:05:23.888222Z",
       "format": null,
-      "last_modified": "2022-02-28T12:03:03.786898Z",
+      "last_modified": "2022-02-28T12:04:10.191715Z",
       "mimetype": "text/csv",
       "name": "iris.csv",
       "path": "data/iris.csv",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-02-28T12:04:36.111406Z",
+      "created": "2022-02-28T12:05:23.884222Z",
       "format": null,
-      "last_modified": "2022-02-28T12:03:03.786898Z",
+      "last_modified": "2022-02-28T12:04:10.191715Z",
       "mimetype": null,
       "name": "Museums_in_DC.geojson",
       "path": "data/Museums_in_DC.geojson",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-02-28T12:04:36.111406Z",
+      "created": "2022-02-28T12:05:23.884222Z",
       "format": null,
-      "last_modified": "2022-02-28T12:03:03.786898Z",
+      "last_modified": "2022-02-28T12:04:10.191715Z",
       "mimetype": "application/json",
       "name": "bar.vl.json",
       "path": "data/bar.vl.json",
@@ -38,9 +38,9 @@
     },
     {
       "content": null,
-      "created": "2022-02-28T12:04:36.111406Z",
+      "created": "2022-02-28T12:05:23.888222Z",
       "format": null,
-      "last_modified": "2022-02-28T12:03:03.786898Z",
+      "last_modified": "2022-02-28T12:04:10.191715Z",
       "mimetype": "image/png",
       "name": "matplotlib.png",
       "path": "data/matplotlib.png",
@@ -50,9 +50,9 @@
     },
     {
       "content": null,
-      "created": "2022-02-28T12:04:36.111406Z",
+      "created": "2022-02-28T12:05:23.888222Z",
       "format": null,
-      "last_modified": "2022-02-28T12:03:03.786898Z",
+      "last_modified": "2022-02-28T12:04:10.191715Z",
       "mimetype": null,
       "name": "fasta-example.fasta",
       "path": "data/fasta-example.fasta",
@@ -61,9 +61,9 @@
       "writable": true
     }
   ],
-  "created": "2022-02-28T12:04:36.111406Z",
+  "created": "2022-02-28T12:05:23.888222Z",
   "format": "json",
-  "last_modified": "2022-02-28T12:04:36.111406Z",
+  "last_modified": "2022-02-28T12:05:23.888222Z",
   "mimetype": null,
   "name": "data",
   "path": "data",
